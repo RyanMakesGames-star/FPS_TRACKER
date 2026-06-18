@@ -1,1 +1,2 @@
 this is an fps counter just install exe if youare interested of changeing code donload py and use python3 -m pip install pywin32 pyinstaller on cmd windows than use python3 -m PyInstaller --onefile --noconsole fps_counter.py than you get the exe
+open https://github.com/RyanMakesGames-star/FPS_TRACKER
